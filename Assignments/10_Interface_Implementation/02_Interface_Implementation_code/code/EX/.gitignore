@@ -1,9 +1,0 @@
-bin/
-build/
-target/
-*.class
-config/db.properties
-lib/*.jar
-WebContent/WEB-INF/lib/*.jar
-.idea/
-*.iml
